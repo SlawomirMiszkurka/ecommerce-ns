@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a308755-ff88-474a-ac98-b12b47b0275a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/FooMooBooZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/FooMooBooZoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/Greeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/CantPublishProductException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/CantPublishProductException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/HashMapProductStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/HashMapProductStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/ListProductStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/ListProductStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/ProductCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/ProductCatalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/ProductDoesNotExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/ProductDoesNotExistsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/ProductStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/ProductStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/ProductsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/catalog/ProductsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/creditcard/CantResignCreditException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/creditcard/CantResignCreditException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/creditcard/CreditBelowThresholdException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/creditcard/CreditBelowThresholdException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/creditcard/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jkanclerz/creditcard/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/jkanclerz/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/jkanclerz/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/jkanclerz/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/jkanclerz/FirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/jkanclerz/catalog/CatalogE2ETest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/jkanclerz/catalog/CatalogE2ETest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/jkanclerz/catalog/ListProductStorageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/jkanclerz/catalog/ListProductStorageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/jkanclerz/catalog/ProductCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/jkanclerz/catalog/ProductCatalogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/jkanclerz/creditcard/CreditCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/jkanclerz/creditcard/CreditCardTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Q6AVbvWtQOFJLIl8AXVPFHIsHG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.jkanclerz.sales" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CatalogE2ETest.productListing">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.jkanclerz.Application" />
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.jkanclerz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CatalogE2ETest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.jkanclerz.catalog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.jkanclerz.catalog" />
+      <option name="MAIN_CLASS_NAME" value="pl.jkanclerz.catalog.CatalogE2ETest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CatalogE2ETest.productListing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.jkanclerz.catalog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.jkanclerz.catalog" />
+      <option name="MAIN_CLASS_NAME" value="pl.jkanclerz.catalog.CatalogE2ETest" />
+      <option name="METHOD_NAME" value="productListing" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CatalogE2ETest.productListing" />
+        <item itemvalue="JUnit.CatalogE2ETest" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a308755-ff88-474a-ac98-b12b47b0275a" name="Changes" comment="" />
+      <created>1684663684722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684663684722</updated>
+    </task>
+    <servers />
+  </component>
+</project>
